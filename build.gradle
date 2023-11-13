@@ -1,4 +1,6 @@
-implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310")
-implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2")
-implementation("com.github.kittinunf.fuel:fuel:2.3.1")
-implementation("com.github.kittinunf.fuel:fuel")
+dependencies {
+	implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310")
+	implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2")
+	implementation("com.github.kittinunf.fuel:fuel:2.3.1")
+	implementation("com.github.kittinunf.fuel:fuel")
+}
