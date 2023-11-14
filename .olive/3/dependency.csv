@@ -1,0 +1,9 @@
+dependencyType,groupId,artifactId,version,scope,path
+GRADLE,"com.fasterxml.jackson.datatype",jackson-datatype-jsr310,,implementation,build.gradle
+GRADLE,"com.fasterxml.jackson.datatype",jackson-datatype-jsr310,2.1.2,implementation,build.gradle
+GRADLE,"com.github.kittinunf.fuel",fuel,2.3.1,implementation,build.gradle
+GRADLE,"com.github.kittinunf.fuel",fuel,,implementation,build.gradle
+GRADLE,com.facebook.fresco,fresco,2.8.0,implementation,build.gradle
+GEMFILE,,nokogiri,,,Gemfile
+GEMFILE,,rack,1.1,,Gemfile
+GEMFILE,,rspec,,":test do",Gemfile

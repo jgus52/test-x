@@ -1,0 +1,21 @@
+---
+version: "v2.0"
+projectTitle: "Facebook-Fresco"
+projectHash: ""
+cliInfo:
+  sourcePath: "/Users/kakao/IdeaProjects/test-olivex"
+  globalBasePath: "/Users/kakao/.olive"
+  localBasePath: "/Users/kakao/IdeaProjects/test-olivex/.olive"
+scanInfo:
+  revisionId: 3
+  hash: ""
+  status: "MAPPED"
+  resultPath: "/Users/kakao/IdeaProjects/test-olivex/.olive/3"
+  executed: "2023-11-14T15:59:55.494213"
+userConfig:
+  isOpenSource: false
+  excludePaths: []
+  analysisType: null
+  gradleBuildVariant: ""
+  excludeGradle: []
+  canContainExecutableTask: false

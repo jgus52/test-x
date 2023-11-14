@@ -1,0 +1,921 @@
+[ {
+  "component" : {
+    "sourceUrl" : "http://github.com/fasterxml/jackson-datatype-jsr310",
+    "componentLicenses" : [ ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ ],
+    "representLicense" : {
+      "identifier" : "",
+      "isIssued" : false,
+      "isSPDX" : false,
+      "isNotice" : false,
+      "isReviewed" : false,
+      "obligations" : [ ],
+      "fullName" : "",
+      "id" : 0,
+      "url" : "",
+      "isFavorite" : false
+    },
+    "isReviewed" : false,
+    "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+    "id" : 326960,
+    "url" : "http://github.com/fasterxml/jackson-datatype-jsr310"
+  },
+  "dependency" : {
+    "path" : "build.gradle",
+    "dependencyType" : "GRADLE",
+    "pos" : 2,
+    "line" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310\")",
+    "packageManagerType" : "MAVEN",
+    "fullName" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+    "spec" : {
+      "group" : "com.fasterxml.jackson.datatype",
+      "artifact" : "jackson-datatype-jsr310",
+      "version" : "",
+      "license" : "",
+      "scope" : "implementation"
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ ],
+    "data" : {
+      "description" : "Add-on module to support JSR-310 (Java 8 Date & Time API) data types.",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : null,
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "",
+      "version" : "2.15.2",
+      "authors" : [ "nick williams" ],
+      "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ ],
+  "hasIssuedLicense" : false,
+  "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+  "componentType" : "GLOBAL",
+  "licenses" : [ ],
+  "url" : "http://github.com/fasterxml/jackson-datatype-jsr310",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "com.fasterxml.jackson.datatype",
+      "artifactId" : "jackson-datatype-jsr310",
+      "version" : "",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "MAVEN",
+      "fullName" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+      "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE",
+      "scope" : "implementation",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "build.gradle",
+      "content" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310\")",
+      "lineStartPos" : 2,
+      "lineEndPos" : 2,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/fasterxml/jackson-datatype-jsr310",
+    "componentLicenses" : [ ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ ],
+    "representLicense" : {
+      "identifier" : "",
+      "isIssued" : false,
+      "isSPDX" : false,
+      "isNotice" : false,
+      "isReviewed" : false,
+      "obligations" : [ ],
+      "fullName" : "",
+      "id" : 0,
+      "url" : "",
+      "isFavorite" : false
+    },
+    "isReviewed" : false,
+    "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+    "id" : 326960,
+    "url" : "http://github.com/fasterxml/jackson-datatype-jsr310"
+  },
+  "dependency" : {
+    "path" : "build.gradle",
+    "dependencyType" : "GRADLE",
+    "pos" : 3,
+    "line" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2\")",
+    "packageManagerType" : "MAVEN",
+    "fullName" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2",
+    "spec" : {
+      "group" : "com.fasterxml.jackson.datatype",
+      "artifact" : "jackson-datatype-jsr310",
+      "version" : "2.1.2",
+      "license" : "",
+      "scope" : "implementation"
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ ],
+    "data" : {
+      "description" : "",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : null,
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "",
+      "version" : "2.1.2",
+      "authors" : [ ],
+      "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ ],
+  "hasIssuedLicense" : false,
+  "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+  "componentType" : "GLOBAL",
+  "licenses" : [ ],
+  "url" : "http://github.com/fasterxml/jackson-datatype-jsr310",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "com.fasterxml.jackson.datatype",
+      "artifactId" : "jackson-datatype-jsr310",
+      "version" : "2.1.2",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "MAVEN",
+      "fullName" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2",
+      "name" : "com.fasterxml.jackson.datatype:jackson-datatype-jsr310"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE",
+      "scope" : "implementation",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "build.gradle",
+      "content" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2\")",
+      "lineStartPos" : 3,
+      "lineEndPos" : 3,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/kittinunf/fuel",
+    "componentLicenses" : [ {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 6168,
+      "versionCondition" : ""
+    } ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ "Copyright  2020 Kittinun Vantasin" ],
+    "representLicense" : {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    },
+    "isReviewed" : true,
+    "name" : "Fuel",
+    "id" : 6174,
+    "url" : "http://github.com/kittinunf/fuel"
+  },
+  "dependency" : {
+    "path" : "build.gradle",
+    "dependencyType" : "GRADLE",
+    "pos" : 4,
+    "line" : "implementation(\"com.github.kittinunf.fuel:fuel:2.3.1\")",
+    "packageManagerType" : "MAVEN",
+    "fullName" : "com.github.kittinunf.fuel:fuel:2.3.1",
+    "spec" : {
+      "group" : "com.github.kittinunf.fuel",
+      "artifact" : "fuel",
+      "version" : "2.3.1",
+      "license" : "",
+      "scope" : "implementation"
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    } ],
+    "data" : {
+      "description" : "The easiest HTTP networking library in Kotlin/Android",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : "https://github.com/kittinunf/fuel",
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "MIT License",
+      "version" : "2.3.1",
+      "authors" : [ "lucasqueiroz", "nikkyai", "kucherenkoihor", "lucasvalenteds", "kittinunf", "sleeplessbyte", "inoles" ],
+      "name" : "com.github.kittinunf.fuel:fuel"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ "Copyright  2020 Kittinun Vantasin" ],
+  "hasIssuedLicense" : false,
+  "name" : "Fuel",
+  "componentType" : "GLOBAL",
+  "licenses" : [ {
+    "fullName" : "MIT License",
+    "id" : 22,
+    "isIssued" : false
+  } ],
+  "url" : "http://github.com/kittinunf/fuel",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "com.github.kittinunf.fuel",
+      "artifactId" : "fuel",
+      "version" : "2.3.1",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "MAVEN",
+      "fullName" : "com.github.kittinunf.fuel:fuel:2.3.1",
+      "name" : "com.github.kittinunf.fuel:fuel"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE",
+      "scope" : "implementation",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "build.gradle",
+      "content" : "implementation(\"com.github.kittinunf.fuel:fuel:2.3.1\")",
+      "lineStartPos" : 4,
+      "lineEndPos" : 4,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/kittinunf/fuel",
+    "componentLicenses" : [ {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 6168,
+      "versionCondition" : ""
+    } ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ "Copyright  2020 Kittinun Vantasin" ],
+    "representLicense" : {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    },
+    "isReviewed" : true,
+    "name" : "Fuel",
+    "id" : 6174,
+    "url" : "http://github.com/kittinunf/fuel"
+  },
+  "dependency" : {
+    "path" : "build.gradle",
+    "dependencyType" : "GRADLE",
+    "pos" : 5,
+    "line" : "implementation(\"com.github.kittinunf.fuel:fuel\")",
+    "packageManagerType" : "MAVEN",
+    "fullName" : "com.github.kittinunf.fuel:fuel",
+    "spec" : {
+      "group" : "com.github.kittinunf.fuel",
+      "artifact" : "fuel",
+      "version" : "",
+      "license" : "",
+      "scope" : "implementation"
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    } ],
+    "data" : {
+      "description" : "The easiest HTTP networking library for Kotlin/Android",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : "https://github.com/kittinunf/fuel",
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "MIT License",
+      "version" : "3.0.0-alpha1",
+      "authors" : [ ],
+      "name" : "com.github.kittinunf.fuel:fuel"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ "Copyright  2020 Kittinun Vantasin" ],
+  "hasIssuedLicense" : false,
+  "name" : "Fuel",
+  "componentType" : "GLOBAL",
+  "licenses" : [ {
+    "fullName" : "MIT License",
+    "id" : 22,
+    "isIssued" : false
+  } ],
+  "url" : "http://github.com/kittinunf/fuel",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "com.github.kittinunf.fuel",
+      "artifactId" : "fuel",
+      "version" : "",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "MAVEN",
+      "fullName" : "com.github.kittinunf.fuel:fuel",
+      "name" : "com.github.kittinunf.fuel:fuel"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE",
+      "scope" : "implementation",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "build.gradle",
+      "content" : "implementation(\"com.github.kittinunf.fuel:fuel\")",
+      "lineStartPos" : 5,
+      "lineEndPos" : 5,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/facebook/fresco",
+    "componentLicenses" : [ {
+      "license" : {
+        "identifier" : "BSD-3-Clause",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "BSD 3-Clause \"New\" or \"Revised\" License",
+        "id" : 54,
+        "url" : "https://opensource.org/licenses/BSD-3-Clause",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 1494426,
+      "versionCondition" : "<1.9.0"
+    }, {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 1494427,
+      "versionCondition" : ">=1.9.0"
+    }, {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : false,
+      "id" : 1392150,
+      "versionCondition" : ""
+    } ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ "Copyright Meta Platforms, Inc. and affiliates." ],
+    "representLicense" : {
+      "identifier" : "BSD-3-Clause",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "BSD 3-Clause \"New\" or \"Revised\" License",
+      "id" : 54,
+      "url" : "https://opensource.org/licenses/BSD-3-Clause",
+      "isFavorite" : true
+    },
+    "isReviewed" : true,
+    "name" : "Facebook Fresco",
+    "id" : 1345920,
+    "url" : "http://github.com/facebook/fresco"
+  },
+  "dependency" : {
+    "path" : "build.gradle",
+    "dependencyType" : "GRADLE",
+    "pos" : 6,
+    "line" : "implementation(\"com.facebook.fresco:fresco:2.8.0\")",
+    "packageManagerType" : "MAVEN",
+    "fullName" : "com.facebook.fresco:fresco:2.8.0",
+    "spec" : {
+      "group" : "com.facebook.fresco",
+      "artifact" : "fresco",
+      "version" : "2.8.0",
+      "license" : "",
+      "scope" : "implementation"
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ ],
+    "data" : {
+      "description" : "",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : null,
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "",
+      "version" : "2.8.0",
+      "authors" : [ ],
+      "name" : "com.facebook.fresco:fresco"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ "Copyright Meta Platforms, Inc. and affiliates." ],
+  "hasIssuedLicense" : false,
+  "name" : "Facebook Fresco",
+  "componentType" : "GLOBAL",
+  "licenses" : [ {
+    "fullName" : "BSD 3-Clause \"New\" or \"Revised\" License",
+    "id" : 54,
+    "isIssued" : false
+  }, {
+    "fullName" : "MIT License",
+    "id" : 22,
+    "isIssued" : false
+  } ],
+  "url" : "http://github.com/facebook/fresco",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "com.facebook.fresco",
+      "artifactId" : "fresco",
+      "version" : "2.8.0",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "MAVEN",
+      "fullName" : "com.facebook.fresco:fresco:2.8.0",
+      "name" : "com.facebook.fresco:fresco"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE",
+      "scope" : "implementation",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "build.gradle",
+      "content" : "implementation(\"com.facebook.fresco:fresco:2.8.0\")",
+      "lineStartPos" : 6,
+      "lineEndPos" : 6,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/sparklemotion/nokogiri",
+    "componentLicenses" : [ {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 1498384,
+      "versionCondition" : ""
+    }, {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : false,
+      "id" : 65178,
+      "versionCondition" : ""
+    } ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ "Copyright 2008 -- 2021 by Mike Dalessio, Aaron Patterson, Yoko Harada, Akinori MUSHA, John Shahid, Karol Bucek, Sam Ruby, Craig Barnes, Stephen Checkoway, Lars Kanis, Sergio Arbeo, Timothy Elliott, Nobuyoshi Nakada, Charles Nutter, Patrick Mahoney." ],
+    "representLicense" : {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    },
+    "isReviewed" : true,
+    "name" : "Nokogiri",
+    "id" : 63550,
+    "url" : "http://github.com/sparklemotion/nokogiri"
+  },
+  "dependency" : {
+    "path" : "Gemfile",
+    "dependencyType" : "GEMFILE",
+    "pos" : 5,
+    "line" : "gem 'nokogiri'",
+    "packageManagerType" : "RUBY_GEM",
+    "fullName" : "nokogiri",
+    "spec" : {
+      "group" : "",
+      "artifact" : "nokogiri",
+      "version" : "",
+      "license" : "",
+      "scope" : ""
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    } ],
+    "data" : {
+      "description" : "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby. It provides a\nsensible, easy-to-understand API for reading, writing, modifying, and querying documents. It is\nfast and standards-compliant by relying on native parsers like libxml2, libgumbo, or xerces.\n",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : "https://github.com/sparklemotion/nokogiri",
+      "issueUrl" : "https://github.com/sparklemotion/nokogiri/issues",
+      "homepageUrl" : null,
+      "licenseName" : "MIT License",
+      "version" : "1.15.4",
+      "authors" : [ "Timothy Elliott", "Stephen Checkoway", "Mike Dalessio", "Karol Bucek", "Sergio Arbeo", "Yoko Harada", "Lars Kanis", "Nobuyoshi Nakada", "Sam Ruby", "Aaron Patterson", "Akinori MUSHA", "Craig Barnes", "John Shahid" ],
+      "name" : "nokogiri"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ "Copyright 2008 -- 2021 by Mike Dalessio, Aaron Patterson, Yoko Harada, Akinori MUSHA, John Shahid, Karol Bucek, Sam Ruby, Craig Barnes, Stephen Checkoway, Lars Kanis, Sergio Arbeo, Timothy Elliott, Nobuyoshi Nakada, Charles Nutter, Patrick Mahoney." ],
+  "hasIssuedLicense" : false,
+  "name" : "Nokogiri",
+  "componentType" : "GLOBAL",
+  "licenses" : [ {
+    "fullName" : "MIT License",
+    "id" : 22,
+    "isIssued" : false
+  } ],
+  "url" : "http://github.com/sparklemotion/nokogiri",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "",
+      "artifactId" : "nokogiri",
+      "version" : "",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "RUBY_GEM",
+      "fullName" : "nokogiri",
+      "name" : "nokogiri"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GEMFILE",
+      "scope" : "",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "Gemfile",
+      "content" : "gem 'nokogiri'",
+      "lineStartPos" : 5,
+      "lineEndPos" : 5,
+      "repositoryPath" : null
+    } ]
+  }
+}, {
+  "component" : {
+    "sourceUrl" : "http://github.com/rack/rack",
+    "componentLicenses" : [ {
+      "license" : {
+        "identifier" : "MIT",
+        "isIssued" : false,
+        "isSPDX" : true,
+        "isNotice" : true,
+        "isReviewed" : true,
+        "obligations" : [ {
+          "isIssued" : false,
+          "guides" : [ ],
+          "code" : "License Notice",
+          "name" : "License notices",
+          "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+          "id" : 1
+        } ],
+        "fullName" : "MIT License",
+        "id" : 22,
+        "url" : "https://opensource.org/licenses/MIT",
+        "isFavorite" : true
+      },
+      "active" : true,
+      "id" : 23672,
+      "versionCondition" : ""
+    } ],
+    "componentType" : "GLOBAL",
+    "gitHubInfo" : null,
+    "copyrights" : [ "Copyright 2007-2018 Christian Neukirchen <http://chneukirchen.org/infopage.html>" ],
+    "representLicense" : {
+      "identifier" : "MIT",
+      "isIssued" : false,
+      "isSPDX" : true,
+      "isNotice" : true,
+      "isReviewed" : true,
+      "obligations" : [ {
+        "isIssued" : false,
+        "guides" : [ ],
+        "code" : "License Notice",
+        "name" : "License notices",
+        "description" : "Open-source licenses you use are subject to notices for any copies or works.",
+        "id" : 1
+      } ],
+      "fullName" : "MIT License",
+      "id" : 22,
+      "url" : "https://opensource.org/licenses/MIT",
+      "isFavorite" : true
+    },
+    "isReviewed" : true,
+    "name" : "Rack",
+    "id" : 23725,
+    "url" : "http://github.com/rack/rack"
+  },
+  "dependency" : {
+    "path" : "Gemfile",
+    "dependencyType" : "GEMFILE",
+    "pos" : 6,
+    "line" : "gem 'rack', '~>1.1'",
+    "packageManagerType" : "RUBY_GEM",
+    "fullName" : "rack:1.1",
+    "spec" : {
+      "group" : "",
+      "artifact" : "rack",
+      "version" : "1.1",
+      "license" : "",
+      "scope" : ""
+    }
+  },
+  "dependencies" : [ ],
+  "packageData" : {
+    "licenses" : [ ],
+    "data" : {
+      "description" : "",
+      "licenses" : null,
+      "copyrights" : [ ],
+      "sourceUrl" : null,
+      "issueUrl" : null,
+      "homepageUrl" : null,
+      "licenseName" : "",
+      "version" : "1.1",
+      "authors" : [ ],
+      "name" : "rack"
+    },
+    "isIssued" : false
+  },
+  "mapping" : true,
+  "copyrights" : [ "Copyright 2007-2018 Christian Neukirchen <http://chneukirchen.org/infopage.html>" ],
+  "hasIssuedLicense" : false,
+  "name" : "Rack",
+  "componentType" : "GLOBAL",
+  "licenses" : [ {
+    "fullName" : "MIT License",
+    "id" : 22,
+    "isIssued" : false
+  } ],
+  "url" : "http://github.com/rack/rack",
+  "isExcludeScope" : false,
+  "analysis" : {
+    "spec" : {
+      "groupId" : "",
+      "artifactId" : "rack",
+      "version" : "1.1",
+      "fileType" : "",
+      "fileSize" : -1,
+      "packageManagerType" : "RUBY_GEM",
+      "fullName" : "rack:1.1",
+      "name" : "rack"
+    },
+    "attribute" : {
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GEMFILE",
+      "scope" : "",
+      "url" : ""
+    },
+    "positions" : [ {
+      "path" : "Gemfile",
+      "content" : "gem 'rack', '~>1.1'",
+      "lineStartPos" : 6,
+      "lineEndPos" : 6,
+      "repositoryPath" : null
+    } ]
+  }
+} ]

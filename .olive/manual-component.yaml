@@ -1,0 +1,9 @@
+---
+manual-components:
+- path: ""
+  url: ""
+  create-data:
+    name: ""
+    license: ""
+    copyrights: []
+  componentAddType: "SEARCH"

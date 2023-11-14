@@ -1,0 +1,285 @@
+[ {
+  "dependencyType" : "BINARY"
+}, {
+  "dependencyType" : "FRAMEWORK"
+}, {
+  "dependencyType" : "FONT"
+}, {
+  "dependencyType" : "PODFILE"
+}, {
+  "dependencyType" : "ANDROID_MAKE"
+}, {
+  "dependencyType" : "PODSPEC"
+}, {
+  "infoList" : [ {
+    "dependency" : {
+      "spec" : {
+        "group" : "com.fasterxml.jackson.datatype",
+        "artifact" : "jackson-datatype-jsr310",
+        "version" : "",
+        "license" : "",
+        "scope" : "implementation"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "build.gradle",
+    "line" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310\")",
+    "pos" : 2,
+    "attribute" : {
+      "packageManagerType" : "MAVEN",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "com.fasterxml.jackson.datatype",
+        "artifact" : "jackson-datatype-jsr310",
+        "version" : "2.1.2",
+        "license" : "",
+        "scope" : "implementation"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "build.gradle",
+    "line" : "implementation(\"com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.1.2\")",
+    "pos" : 3,
+    "attribute" : {
+      "packageManagerType" : "MAVEN",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "com.github.kittinunf.fuel",
+        "artifact" : "fuel",
+        "version" : "2.3.1",
+        "license" : "",
+        "scope" : "implementation"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "build.gradle",
+    "line" : "implementation(\"com.github.kittinunf.fuel:fuel:2.3.1\")",
+    "pos" : 4,
+    "attribute" : {
+      "packageManagerType" : "MAVEN",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "com.github.kittinunf.fuel",
+        "artifact" : "fuel",
+        "version" : "",
+        "license" : "",
+        "scope" : "implementation"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "build.gradle",
+    "line" : "implementation(\"com.github.kittinunf.fuel:fuel\")",
+    "pos" : 5,
+    "attribute" : {
+      "packageManagerType" : "MAVEN",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "com.facebook.fresco",
+        "artifact" : "fresco",
+        "version" : "1.8.0",
+        "license" : "",
+        "scope" : "implementation"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "build.gradle",
+    "line" : "implementation(\"com.facebook.fresco:fresco:1.8.0\")",
+    "pos" : 6,
+    "attribute" : {
+      "packageManagerType" : "MAVEN",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GRADLE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  } ],
+  "dependencyType" : "GRADLE"
+}, {
+  "dependencyType" : "POM_XML"
+}, {
+  "dependencyType" : "BERKSFILE"
+}, {
+  "dependencyType" : "PACKAGE_JSON"
+}, {
+  "dependencyType" : "GODEP_JSON"
+}, {
+  "dependencyType" : "GOPKG_TOML"
+}, {
+  "dependencyType" : "GO_MODULE"
+}, {
+  "dependencyType" : "GOPKG_LOCK"
+}, {
+  "dependencyType" : "CARTFILE"
+}, {
+  "infoList" : [ {
+    "dependency" : {
+      "spec" : {
+        "group" : "",
+        "artifact" : "nokogiri",
+        "version" : "",
+        "license" : "",
+        "scope" : ""
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "Gemfile",
+    "line" : "gem 'nokogiri'",
+    "pos" : 5,
+    "attribute" : {
+      "packageManagerType" : "RUBY_GEM",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GEMFILE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "",
+        "artifact" : "rack",
+        "version" : "1.1",
+        "license" : "",
+        "scope" : ""
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "Gemfile",
+    "line" : "gem 'rack', '~>1.1'",
+    "pos" : 6,
+    "attribute" : {
+      "packageManagerType" : "RUBY_GEM",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GEMFILE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  }, {
+    "dependency" : {
+      "spec" : {
+        "group" : "",
+        "artifact" : "rspec",
+        "version" : "",
+        "license" : "",
+        "scope" : ":test do"
+      },
+      "revisionInfo" : {
+        "branch" : "",
+        "revision" : ""
+      },
+      "extraInfo" : {
+        "repository" : "",
+        "extension" : "",
+        "domain" : ""
+      }
+    },
+    "path" : "Gemfile",
+    "line" : "gem 'rspec', :require => 'spec'",
+    "pos" : 9,
+    "attribute" : {
+      "packageManagerType" : "RUBY_GEM",
+      "analyzerType" : "PARSER",
+      "dependencyType" : "GEMFILE"
+    },
+    "state" : "SUCCESS",
+    "message" : ""
+  } ],
+  "dependencyType" : "GEMFILE"
+}, {
+  "dependencyType" : "GIT_MODULES"
+}, {
+  "dependencyType" : "PACKAGE_SWIFT"
+}, {
+  "dependencyType" : "PROJECT_PBXPROJ"
+}, {
+  "dependencyType" : "REQUIREMENT_TXT"
+}, {
+  "dependencyType" : "SETUP_PY"
+}, {
+  "dependencyType" : "CMAKE_LIST_TXT"
+}, {
+  "dependencyType" : "BINARY"
+}, {
+  "dependencyType" : "FRAMEWORK"
+}, {
+  "dependencyType" : "FONT"
+} ]

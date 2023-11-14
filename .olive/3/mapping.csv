@@ -1,0 +1,6 @@
+index,name,url,componentType,componentLicenses,copyright
+1,"com.fasterxml.jackson.datatype:jackson-datatype-jsr310","http://github.com/fasterxml/jackson-datatype-jsr310",GLOBAL,,
+2,Fuel,"http://github.com/kittinunf/fuel",GLOBAL,"MIT License","Copyright  2020 Kittinun Vantasin"
+3,"Facebook Fresco","http://github.com/facebook/fresco",GLOBAL,"BSD 3-Clause ""New"" or ""Revised"" License;MIT License","Copyright Meta Platforms, Inc. and affiliates."
+4,Nokogiri,"http://github.com/sparklemotion/nokogiri",GLOBAL,"MIT License","Copyright 2008 -- 2021 by Mike Dalessio, Aaron Patterson, Yoko Harada, Akinori MUSHA, John Shahid, Karol Bucek, Sam Ruby, Craig Barnes, Stephen Checkoway, Lars Kanis, Sergio Arbeo, Timothy Elliott, Nobuyoshi Nakada, Charles Nutter, Patrick Mahoney."
+5,Rack,"http://github.com/rack/rack",GLOBAL,"MIT License","Copyright 2007-2018 Christian Neukirchen <http://chneukirchen.org/infopage.html>"
