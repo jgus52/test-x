@@ -9,5 +9,7 @@ dependencies {
 	implementation("ch.qos.logback:logback-core:1.4.10")
 	implementation("com.github.tjlabs:jupiter-android_v2")
 	implementation("com.baker.test:test-x")
-	implementation("spring-web-mvc-4.3.1.RELEASE")
+	implementation(":spring-web-mvc-4.3.1.RELEASE")
+	implementation(":threetenbp-1.3.3")
+	implementation("api-common:api-common:1.7.0")
 }
