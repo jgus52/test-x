@@ -13,4 +13,5 @@ dependencies {
 	implementation(":threetenbp-1.3.3")
 	implementation("api-common:api-common:1.7.0")
 	implementation("com.baker.newpackage:test-x:0.1.0")
+        implementation("com.baker.newpackage2:test-x:0.1.0")
 }
